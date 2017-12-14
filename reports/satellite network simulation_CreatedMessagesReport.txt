@@ -1,0 +1,2 @@
+# time  ID  size  fromHost  toHost  TTL  isResponse
+4.0000 null  null null  M1 Node164  Node98  初始消息名称：  M1 [Node164] 消息创建时间：  4.0  消息接收时间：  4.0
